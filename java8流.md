@@ -40,7 +40,7 @@ sql能做的事，流基本都能做。
 
 ### 3、举个例子
 
-![timg](C:\Users\Administrator\Desktop\公众号\timg.jpg)
+![timg](img\timg.jpg)
 定义Player类的定义如下：
 
 ```java
