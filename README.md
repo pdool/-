@@ -3,4 +3,4 @@
 
 
 
-![qrcode_for_gh_300a7064e5f0_258(1)](img\qrcode_for_gh_300a7064e5f0_258(1).jpg)
+![qrcode_for_gh_300a7064e5f0_258(1)](img/qrcode_for_gh_300a7064e5f0_258(1).jpg)
