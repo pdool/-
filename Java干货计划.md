@@ -8,14 +8,14 @@ Java技术篇
 
 1基础篇
 
-- 1.stream
-- 2.function
-- 3.Collectors
-- 4.Collection
-- 5.动态代理
-- 6.同步异步
-- 7.future
-- 8.锁
+- [x] [1.stream](聊技术/java8流.md)
+- [ ] 2.function
+- [ ] 3.Collectors
+- [ ] 4.Collection
+- [ ] 5.动态代理
+- [ ] 6.同步异步
+- [ ] 7.future
+- [ ] 8.锁
 
 2、结构篇
 
