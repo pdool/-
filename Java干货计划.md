@@ -9,7 +9,7 @@ Java技术篇
 1基础篇
 
 - [x] [1.stream](聊技术/java8流.md)
-- [ ] 2.function
+- [x] [2.function](聊技术/function.md)
 - [ ] 3.Collectors
 - [ ] 4.Collection
 - [ ] 5.动态代理
