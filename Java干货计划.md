@@ -11,11 +11,12 @@ Java技术篇
 - [x] [1.stream](聊技术/java8流.md)
 - [x] [2.function](聊技术/function.md)
 - [ ] 3.Collectors
-- [ ] 4.Collection
+- [x] [4.Collection](聊技术/function.md)
 - [ ] 5.动态代理
 - [ ] 6.同步异步
 - [ ] 7.future
 - [ ] 8.锁
+- [ ] 9.[idea调试](聊技术/idea调试.md)
 
 2、结构篇
 
@@ -40,10 +41,9 @@ Java技术篇
 - \- 9.代码生成freemake volicity
 - \- 10.热更新
 - \- 11.字节码
+- -12.调试原理
 
-4
-
-游戏系统
+4 游戏系统
 
 
 
