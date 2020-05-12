@@ -10,7 +10,7 @@ Java技术篇
 
 - [x] [1.stream](聊技术/java8流.md)
 - [x] [2.function](聊技术/function.md)
-- [ ] 3.Collectors
+- [x] [3.Collectors](聊技术/Collectors.md)
 - [x] [4.Collection](聊技术/function.md)
 - [ ] 5.动态代理
 - [ ] 6.同步异步
@@ -18,6 +18,7 @@ Java技术篇
 - [ ] 8.锁
 - [x] [9.idea调试](聊技术/idea调试.md)
 - [x] [10.jmx](聊技术/jmx.md)
+- [x] [11.random](聊技术/random.md)
 
 2、结构篇
 
@@ -35,7 +36,7 @@ Java技术篇
 - \- 2.cpu
 - \- 3.故障检测
 - \- 4.字节码
-- \- 5.jacoco
+- \- [5.jacoco](聊技术/jacoco.md)
 - \- 6.arthas
 - \- 7.cat
 - \- 8.监控
