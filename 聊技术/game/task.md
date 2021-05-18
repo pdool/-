@@ -30,11 +30,11 @@
 
 根据任务的需求，我们对任务进行拆分。
 
-![image-20200926210341620](D:\wechat\gameWathcer\img\20200926\2.png)
+![image-20200926210341620](../../\img\20200926\2.png)
 
 根据进度类型进行拆分：
 
-![image-20200926211015062](D:\wechat\gameWathcer\img\20200926\3.png)
+![image-20200926211015062](../../\img\20200926\3.png)
 
 ### 4、show me the fuck code ！
 

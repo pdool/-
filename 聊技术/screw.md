@@ -193,13 +193,13 @@ public class App {
 
 fate_数据库文档__20210304.html:：数据库名 fate ,生成日期是20210304，内容是html，主要用来给其他部门交流。
 
-![image-20210304232407361](D:\wechat\gameWathcer\img\20210304\1.png)
+![image-20210304232407361](../\img\20210304\1.png)
 
-![image-20210304232711607](D:\wechat\gameWathcer\img\20210304\15.png)
+![image-20210304232711607](../\img\20210304\15.png)
 
 
 
-![image-20210304231924023](D:\wechat\gameWathcer\img\20210304\2.png)
+![image-20210304231924023](../\img\20210304\2.png)
 
 ## 总结
 

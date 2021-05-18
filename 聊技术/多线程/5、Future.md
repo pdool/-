@@ -12,9 +12,9 @@ get（） 获取执行的结果，另外一个重载是有时间限制的get ，
 
 isDone()  判断future 结果是否处理完成
 
-![image-20210311213026594](D:\wechat\gameWathcer\img\20210311\2.png)
+![image-20210311213026594](../../\img\20210311\2.png)
 
-![img](D:\wechat\gameWathcer\img\20210311\3.png)
+![img](../../\img\20210311\3.png)
 
 2、future的使用
 
