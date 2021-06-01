@@ -17,7 +17,7 @@ Java技术篇
 - [ ] 5.动态代理
 - [ ] 6.同步异步
 - [ ] 7.future
-- [ ] 8.锁
+- [x] 8.锁
 - [x] [9.idea调试](聊技术/idea调试.md)
 - [x] [10.jmx](聊技术/jmx.md)
 - [x] [11.random](聊技术/random.md)
